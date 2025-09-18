@@ -2,6 +2,7 @@
 Praktikum
 
 • Lengkapi kasus anda dengan menerapkan static, package
+
 • buatkan package id.ac.polban.model dan id.ac.polban.service
 • Buatkan kelas diagram
 • Implementasikan relasi antar kelas melalui :
