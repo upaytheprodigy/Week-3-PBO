@@ -7,10 +7,7 @@ Praktikum
 • Implementasikan relasi antar kelas melalui :
   • Dependency
   • Aggregation
-• Jelaskan masing-masing relasi tersebut pada
-kasus yang dibuat!
+• Jelaskan masing-masing relasi tersebut pada kasus yang dibuat!
 • Generate aplikasi anda ke dalam jar file
-• buat project baru yang hanya memuat jar file
-saja.
-• Source code berikut penjelasannya
-dikumpulkan dalam dokumen PDF
+• buat project baru yang hanya memuat jar file saja.
+• Source code berikut penjelasannya dikumpulkan dalam dokumen PDF
